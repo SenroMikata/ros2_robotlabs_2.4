@@ -1,0 +1,17 @@
+# ROS2 generated directories
+build/
+install/
+log/
+
+# Python/CMake temporary files
+**/*.pyc
+__pycache__/
+*.swp
+*.swo
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
